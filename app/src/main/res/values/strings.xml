@@ -2,4 +2,9 @@
     <string name="app_name">MyCalculator</string>
     <string name="my_simple_calculator">my simple calculator</string>
     <string name="divide">÷</string>
+    <string name="multiply">×</string>
+    <string name="add">+</string>
+    <string name="subs">-</string>
+    <string name="sqrt">√</string>
+    <string name="reciprocal">1/x</string>
 </resources>
