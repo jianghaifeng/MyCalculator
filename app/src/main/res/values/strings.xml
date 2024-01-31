@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="my_simple_calculator">my simple calculator</string>
+    <string name="divide">÷</string>
+</resources>
